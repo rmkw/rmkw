@@ -1,6 +1,5 @@
 ## Hey, I'm Luis Gerardo Castañeda 👽
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](/assets/20220114_103309.jpg)
 
 - ✌️  Hi, I’m @remka666
 
