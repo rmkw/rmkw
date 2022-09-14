@@ -7,4 +7,4 @@
       
 - 💞️ I’m looking for tha love...
 
-- 📫 How to reach me creditozona1@gmail.com, luis.castanedal@inegi.org.mx
+- 📫 How to reach me creditozona1@gmail.com
