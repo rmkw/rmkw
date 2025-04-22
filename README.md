@@ -1,7 +1,7 @@
 ## Hey, I'm Luis Gerardo Castañeda 👽 🍻 👾
 
-- Me complace presentarme como un desarrollador web Full Stack y diseñador UX/UI con una sólida formación en el desarrollo de aplicaciones web, gestión de bases de datos y experiencia de usuario. Con más de tres años de experiencia profesional en el campo, he adquirido habilidades técnicas y de gestión que me permiten abordar proyectos complejos y entregar soluciones de alta calidad.
-- Actualmente, trabajo como Enlace de Vinculación Geográfica C en el INEGI, donde administro y exploto bases de datos para el análisis de información estadística y proveo servicios informáticos esenciales para los proyectos de la unidad administrativa. Mi experiencia incluye el desarrollo de sistemas informáticos y el soporte al usuario final en el uso de tecnologías de la información y comunicaciones.
+- Soy un desarrollador web Full Stack con más de tres años de experiencia en el desarrollo de aplicaciones web y gestión de bases de datos. Tengo un enfoque sólido en la creación de soluciones escalables y eficientes, utilizando tecnologías como Spring Boot, Angular, y PostgreSQL. Mi experiencia incluye tanto la implementación de sistemas backend como la integración de soluciones frontend, así como la gestión de datos para el análisis de información estadística.
+- Actualmente, desempeño el rol de Enlace de Vinculación Geográfica C en el INEGI, donde administro y exploto bases de datos para el análisis estadístico y proporciono soporte técnico en proyectos clave de la unidad administrativa. Me especializo en el desarrollo de sistemas informáticos a medida y en la optimización de procesos a través de tecnologías de la información.
 
   
 
