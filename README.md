@@ -33,6 +33,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 #### Herramientas y Librerías
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
@@ -44,15 +46,21 @@
 #### Diseño y Organización
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
 
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  ![rmkw's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical)
+</p>
+<p align="center">
+  ![rmkw's GitHub streak](https://streak-stats.demolab.com?user=rmkw&theme=radical)
+</p>
+<p align="center">
+  ![rmkw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical)
+</p>
 
-![rmkw's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical)
-![rmkw's GitHub streak](https://streak-stats.demolab.com?user=rmkw&theme=radical)
-![rmkw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical)
 
 
 
@@ -80,4 +88,10 @@
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="rmkw" />
 </p>
+
+
+## ☕ ¿Charlamos?
+
+Si te interesa colaborar, compartir ideas o simplemente saludar,  
+¡puedes encontrarme aquí o en alguna rama de código! 🌿
 
