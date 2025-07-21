@@ -17,28 +17,33 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías que uso
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-</p>
+#### Lenguajes y Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+#### Herramientas y Librerías
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HikariCP](https://img.shields.io/badge/HikariCP-0F9D58?style=flat&logo=datadog&logoColor=white)
+
+#### Diseño y Organización
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
@@ -57,22 +62,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rmkw&theme=onedark&no-bg=true&no-frame=true" />
 </p>
 
----
-
-### 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="rmkw" />
-</p>
 
 ---
 
 ### 📫 Contacto
 
-- 📧 Correo: **tu-correo@ejemplo.com**
-- 🔗 LinkedIn: [linkedin.com/in/lgcl](https://www.linkedin.com/in/tu-nombre)
+
+- 🔗 LinkedIn: [linkedin.com/in/lgcl](https://www.linkedin.com/in/lgcl)
 
 ---
 
 > *“La tecnología no es nada. Lo importante es que tengas fe en las personas, que son básicamente buenas e inteligentes.” – Steve Jobs*
+
+---
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="rmkw" />
+</p>
 
