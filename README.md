@@ -77,23 +77,20 @@
 
 ---
 
-### 📫 Contacto
-
-
-- 🔗 LinkedIn: [linkedin.com/in/lgcl](https://www.linkedin.com/in/lgcl)
-
----
 
 > *“La tecnología no es nada. Lo importante es que tengas fe en las personas, que son básicamente buenas e inteligentes.” – Steve Jobs*
 
 ---
-<p align="">
-  <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="rmkw" />
-</p>
 
 
 ## ☕ ¿Charlamos?
 
 Si te interesa colaborar, compartir ideas o simplemente saludar,  
 ¡puedes encontrarme aquí o en alguna rama de código! 🌿
+
+---
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="rmkw" />
+</p>
+
 
