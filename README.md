@@ -51,9 +51,11 @@
 ---
 
 ### 📊 GitHub Stats
+<h3 align="center">🔥 Estadísticas de GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical" alt="rmkw GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rmkw&theme=radical" alt="GitHub Streak" />
