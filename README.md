@@ -1,9 +1,30 @@
-## Hey, I'm Luis Gerardo Castañeda 👽 🍻 👾
+### Hey, soy Luis Gerardo Castañeda 👽🍻👾
 
-- Soy un desarrollador web Full Stack con experiencia en el desarrollo de aplicaciones web y gestión de bases de datos. Tengo un enfoque sólido en la creación de soluciones escalables y eficientes, utilizando tecnologías como Spring Boot, Angular, y PostgreSQL. Mi experiencia incluye tanto la implementación de sistemas backend como la integración de soluciones frontend, así como la gestión de datos para el análisis de información estadística.
-- Actualmente, desempeño el rol de Enlace de Vinculación Geográfica 'C' en el INEGI, donde administro y exploto bases de datos para el análisis estadístico y proporciono soporte técnico en proyectos clave de la unidad administrativa. Me especializo en el desarrollo de sistemas informáticos a medida y en la optimización de procesos a través de tecnologías de la información. 3:
+👨‍💻 Desarrollador Web Full Stack con experiencia en el desarrollo de sistemas informáticos a medida, gestión de bases de datos y análisis estadístico.
 
-  
+🎯 Me especializo en soluciones escalables y eficientes utilizando:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  
+📍 Actualmente trabajo en el INEGI como Enlace de Vinculación Geográfica 'C', donde administro y exploto bases de datos, desarrollo sistemas internos y doy soporte a proyectos estratégicos.
+
+---
+
+### 📊 Estadísticas
+
+![LuisGCastaneda's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGCastaneda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGCastaneda&layout=compact&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=LuisGCastaneda&color=blue&style=flat)
+
+---
+
+### 📫 Contacto
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lgcl/)
