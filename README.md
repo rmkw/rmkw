@@ -52,13 +52,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  ![rmkw's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  ![rmkw's GitHub streak](https://streak-stats.demolab.com?user=rmkw&theme=radical)
+  <img src="https://streak-stats.demolab.com?user=rmkw&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  ![rmkw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
