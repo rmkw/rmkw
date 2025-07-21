@@ -23,6 +23,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -49,10 +50,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical" alt="rmkw's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical" alt="rmkw's top langs"/>
-</p>
+![rmkw's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical)
+![rmkw's GitHub streak](https://streak-stats.demolab.com?user=rmkw&theme=radical)
+![rmkw's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical)
+
+
 
 ---
 
