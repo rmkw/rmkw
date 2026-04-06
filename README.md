@@ -32,20 +32,7 @@
 ### 🧠 Tecnologías que he explorado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,fastapi,django,
-angular,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,
-postgres,mysql,mongodb,sqlite,
-docker,nginx,cloudflare,heroku,firebase,supabase,
-git,github,gitlab,githubactions,
-linux,ubuntu,debian,windows,powershell,vim,
-vscode,eclipse,androidstudio,arduino,
-postman,graphql,
-python,r,matlab,selenium,
-raspberrypi,
-notion,obsidian,xd,
-wordpress,
-stackoverflow,discord,twitter,linkedin,gmail
-&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,fastapi,django,angular,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,postgres,mysql,mongodb,sqlite,docker,nginx,cloudflare,heroku,firebase,supabase,git,github,gitlab,githubactions,linux,ubuntu,debian,windows,powershell,vim,vscode,eclipse,androidstudio,arduino,postman,graphql,python,r,matlab,selenium,raspberrypi,notion,obsidian,xd,wordpress,stackoverflow,discord,twitter,linkedin,gmail&theme=dark&perline=10" />
 </p>
 
 
