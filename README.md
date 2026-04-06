@@ -98,3 +98,19 @@ Si te interesa colaborar, compartir ideas o construir algo interesante,
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120" alt="Footer decorativo" />
 </p>
+
+---
+
+---
+
+## 🍺 Fuel the Code
+
+<p align="center">
+  <a href="https://buymeacoffee.com/lgclrmkwz">
+    <img src="https://img.shields.io/badge/🍺%20Fuel%20this%20project-Buy%20me%20a%20beer-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Si te gustó lo que viste aquí, apóyalo con una cerveza 🍻</b>
+</p>
