@@ -95,12 +95,6 @@ Si te interesa colaborar, compartir ideas o construir algo interesante,
   <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="Visitas al perfil de rmkw" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120" alt="Footer decorativo" />
-</p>
-
----
-
 ---
 
 ## 🍺 Fuel the Code
@@ -113,4 +107,9 @@ Si te interesa colaborar, compartir ideas o construir algo interesante,
 
 <p align="center">
   <b>Si te gustó lo que viste aquí, apóyalo con una cerveza 🍻</b>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120" alt="Footer decorativo" />
 </p>
