@@ -1,7 +1,24 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&descAlignY=60&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Luis%20Gerardo%20Castañeda&desc=AI-Driven%20Full%20Stack%20Developer%20|%20%20·%20Geospatial%20Data%20·%20APIs%20·%20Data%20Systems%20·%20Automation%20&descAlignY=65)" alt="Header de Luis Gerardo Castañeda" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Luis%20Gerardo%20Casta%C3%B1eda&desc=AI-Driven%20Full%20Stack%20Developer%20|%20%20%C2%B7%20Geospatial%20Data%20%C2%B7%20APIs%20%C2%B7%20Data%20Systems%20%C2%B7%20Automation%20&descAlignY=65" alt="Header de Luis Gerardo Castañeda" />
 </p>
 
+
+
+---
+
+💻 AI-Driven Full Stack Developer enfocado en la construcción de **APIs, sistemas de datos y automatización de procesos**, utilizando principalmente **Spring Boot, Angular y PostgreSQL**.
+
+🔭 Actualmente trabajo en el INEGI como **Enlace de Vinculación Geográfica "C"**, desarrollando sistemas para la gestión y análisis de información estadística, integrando automatización con Python y capacidades de IA como **búsqueda semántica, embeddings y flujos inteligentes**.
+
+🚀 Cuento con más de **5 años desarrollando soluciones reales**, desde aplicaciones web completas hasta pipelines de procesamiento y validación de datos.
+
+⚙️ Mi enfoque está en construir sistemas que:
+- automaticen procesos complejos,
+- reduzcan la intervención manual,
+- mejoren la calidad y consistencia de los datos,
+- y escalen con base en arquitectura sólida y uso estratégico de IA.
+
+---
 ### 🧩 Stack en producción (INEGI)
 <h3 align="center">
   Spring Boot · Angular · PostgreSQL
@@ -9,26 +26,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
 </p>
-
----
-
-💻 Full Stack Developer con enfoque en **automatización, APIs y sistemas de datos**, trabajando con tecnologías como **Spring Boot, Angular y PostgreSQL**.
-
-🔭 Actualmente me desempeño como **Enlace de Vinculación Geográfica "C" en el INEGI**, donde desarrollo sistemas para la gestión y análisis de información estadística, además de implementar automatización de procesos con Python e integración de IA aplicada, incluyendo **OCR, embeddings, búsqueda semántica y flujos automatizados**.
-
-🚀 Tengo más de **5 años construyendo soluciones reales**: desde aplicaciones web completas hasta sistemas de procesamiento, validación e integración de datos, conectando backend, frontend y bases de datos.
-
-⚙️ Me especializo en construir soluciones donde la tecnología no solo funciona, sino que también:
-- automatiza procesos,
-- reduce trabajo manual,
-- mejora la calidad de los datos,
-- e integra desarrollo tradicional con IA aplicada.
-
 ---
 
 ### 🧠 Tecnologías que he explorado
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,postgres,docker,nodejs,mongodb,git,js,react,nextjs,express,tailwind,npm,obsidian,notion,androidstudio,arduino,bootstrap,cs,cpp,cloudflare,css,debian,discord,django,eclipse,fastapi,firebase,github,gitlab,githubactions,gmail,graphql,heroku,html,linkedin,linux,matlab,maven,mysql,nestjs,nginx,postman,powershell,r,raspberrypi,sqlite,stackoverflow,supabase,selenium,svg,twitter,ubuntu,vim,vscode,vue,windows,wordpress,xd&theme=dark&perline=10" />
 </p>
 
