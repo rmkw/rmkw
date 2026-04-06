@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&desc=@rmkw%20%7C%20AI-Driven%20Full%20Stack%20Developer&descAlignY=60&color=gradient" alt="Header de Luis Gerardo Castañeda" />
+</p>
+
 <h1 align="center">Luis Gerardo Castañeda (@rmkw)</h1>
 <h3 align="center">
   AI-Driven Full Stack Developer | Spring Boot · Angular · PostgreSQL · Geospatial Data · APIs · Data Systems · Automation · Docker
@@ -16,6 +20,14 @@
 - reduce trabajo manual,
 - mejora la calidad de los datos,
 - e integra desarrollo tradicional con IA aplicada.
+
+---
+
+### ⚡ Stack rápido
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,postgres,docker,nodejs,mongodb,git,js,react,nextjs,express,tailwind,npm,obsidian,notion&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
+</p>
 
 ---
 
@@ -56,23 +68,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmkw&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats de rmkw" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=rmkw" alt="GitHub Stats de rmkw" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rmkw&theme=radical&hide_border=true" alt="GitHub Streak de rmkw" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmkw&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados por rmkw" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rmkw&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies de rmkw" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmkw&theme=dark" alt="GitHub Streak de rmkw" />
 </p>
 
 ---
@@ -92,4 +92,8 @@ Si te interesa colaborar, compartir ideas o construir algo interesante,
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rmkw&style=flat-square&color=blue" alt="Visitas al perfil de rmkw" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120" alt="Footer decorativo" />
 </p>
