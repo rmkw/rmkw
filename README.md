@@ -26,13 +26,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
 </p>
+
 ---
 
 ### 🧠 Tecnologías que he explorado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=
-java,spring,nodejs,nestjs,express,fastapi,django,
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,fastapi,django,
 angular,react,nextjs,vue,js,ts,html,css,tailwind,bootstrap,
 postgres,mysql,mongodb,sqlite,
 docker,nginx,cloudflare,heroku,firebase,supabase,
@@ -47,6 +47,8 @@ wordpress,
 stackoverflow,discord,twitter,linkedin,gmail
 &theme=dark&perline=10" />
 </p>
+
+
 
 ---
 
