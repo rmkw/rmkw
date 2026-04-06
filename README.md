@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&desc=@rmkw%20%7C%20AI-Driven%20Full%20Stack%20Developer&descAlignY=60&color=gradient" alt="Header de Luis Gerardo Castañeda" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&descAlignY=60&color=gradient" alt="Header de Luis Gerardo Castañeda" />
 </p>
 
-<h1 align="center">Luis Gerardo Castañeda (@rmkw)</h1>
+
 <h3 align="center">
   AI-Driven Full Stack Developer | Spring Boot · Angular · PostgreSQL · Geospatial Data · APIs · Data Systems · Automation · Docker
 </h3>
@@ -23,7 +23,7 @@
 
 ---
 
-### ⚡ Stack rápido
+### ⚡ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,postgres,docker,nodejs,mongodb,git,js,react,nextjs,express,tailwind,npm,obsidian,notion&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
@@ -77,7 +77,7 @@
 
 ---
 
-> *“No se trata solo de escribir código; se trata de construir sistemas que automaticen, escalen y resuelvan problemas reales.”*
+> *“La inteligencia artificial no reemplaza a los desarrolladores, amplifica a los que saben usarla.”*
 
 ---
 
