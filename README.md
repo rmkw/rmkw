@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&descAlignY=60&color=gradient" alt="Header de Luis Gerardo Castañeda" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Luis%20Gerardo%20Casta%C3%B1eda&fontAlignY=40&descAlignY=60&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Luis%20Gerardo%20Castañeda&desc=AI-Driven%20Full%20Stack%20Developer%20|%20%20·%20Geospatial%20Data%20·%20APIs%20·%20Data%20Systems%20·%20Automation%20&descAlignY=65)" alt="Header de Luis Gerardo Castañeda" />
 </p>
 
-
+### 🧩 Stack en producción (INEGI)
 <h3 align="center">
-  AI-Driven Full Stack Developer | Spring Boot · Angular · PostgreSQL · Geospatial Data · APIs · Data Systems · Automation · Docker
+  Spring Boot · Angular · PostgreSQL
 </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
+</p>
 
 ---
 
@@ -23,10 +26,10 @@
 
 ---
 
-### ⚡ Stack
+### 🧠 Tecnologías que he explorado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,postgres,docker,nodejs,mongodb,git,js,react,nextjs,express,tailwind,npm,obsidian,notion&theme=dark&perline=6" alt="Iconos de tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,python,postgres,docker,nodejs,mongodb,git,js,react,nextjs,express,tailwind,npm,obsidian,notion,androidstudio,arduino,bootstrap,cs,cpp,cloudflare,css,debian,discord,django,eclipse,fastapi,firebase,github,gitlab,githubactions,gmail,graphql,heroku,html,linkedin,linux,matlab,maven,mysql,nestjs,nginx,postman,powershell,r,raspberrypi,sqlite,stackoverflow,supabase,selenium,svg,twitter,ubuntu,vim,vscode,vue,windows,wordpress,xd&theme=dark&perline=10" />
 </p>
 
 ---
