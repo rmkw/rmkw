@@ -111,9 +111,7 @@ Si te interesa colaborar, compartir ideas o construir algo interesante,
   </a>
 </p>
 
-<p align="center">
-  <b>Si te gustó lo que viste aquí, apóyalo con una cerveza 🍻</b>
-</p>
+
 
 ---
 <p align="center">
